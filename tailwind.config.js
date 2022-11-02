@@ -975,6 +975,8 @@ module.exports = {
       none: "none",
       disc: "disc",
       decimal: "decimal",
+      loweralpha: "lower-alpha",
+      lowerroman: "lower-roman"
     },
     margin: ({ theme }) => ({
       auto: "auto",
